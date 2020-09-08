@@ -1,6 +1,6 @@
-# fore
+
 There is no database.
-I'm assume there is either a webserver running or that I giot the docker script right.
+I'm assume there is either a webserver running or that I got the docker script right.
 
 To install on Ubuntu 20.
 
